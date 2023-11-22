@@ -55,13 +55,13 @@ const AboutUs = () => {
               </a>
             </p>
           </div>
-          <div className="col-6 col-lg-3 wow fadeInUp" data-wow-delay="0.3s">
-            <p className="text-muted fw-500 mb-0">Date of birth:</p>
-            <p className="text-4 text-dark fw-600 mb-0">5 November, 1988</p>
-          </div>
           <div className="col-6 col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
             <p className="text-muted fw-500 mb-0">From:</p>
             <p className="text-4 text-dark fw-600 mb-0">Los Angeles, USA.</p>
+          </div>
+          <div className="col-6 col-lg-3 wow fadeInUp" data-wow-delay="0.3s">
+            <p className="text-muted fw-500 mb-0">Fun Fact:</p>
+            <p className="text-4 text-dark fw-600 mb-0">Star Wars Fanatic</p>
           </div>
         </div>
       </div>
