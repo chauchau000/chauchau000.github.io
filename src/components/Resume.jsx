@@ -19,8 +19,15 @@ const Resume = () => {
   ];
 
   const experienceDetails = [
+
     {
-      yearRange: "2018 - current",
+      yearRange: "2024 - Current",
+      title: "QA Engineer 2",
+      place: "QA Wolf",
+      desc: "Develop and maintain Playwright automated tests for many external clients. Direct client involvement and communications",
+    },
+    {
+      yearRange: "2018 - 2024",
       title: "Clinical Pharmacist",
       place: "OptumRx",
       desc: "Developed and maintained Excel verbiage macros utilizing Visual Basic for Applications (VBA). Reviewed formulary and utilization management guidelines to determine if medications should be covered based on patient medical history.",

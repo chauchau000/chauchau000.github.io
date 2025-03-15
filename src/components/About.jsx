@@ -20,8 +20,8 @@ const AboutUs = () => {
               </span>
             </h2>
             <p className="text-5">
-              I'm a full stack software engineer with a passion for problem solving. I
-              have a background in healthcare, having been a pharmacist for the past 10 years.
+              I'm a full stack software engineer with a passion for problem solving. Currently, I'm working at QA Wolf, as a Quality Assurance Engineer.
+              I have a background in healthcare, having been a pharmacist for the past 10 years.
               But with my love of problem solving, I began looking elsewhere to fulfill my career desires for less repetitive work. 
               As a self-proclaimed nerd since high school, I made the leap of faith toward where my interests lie - software development.
             </p>
