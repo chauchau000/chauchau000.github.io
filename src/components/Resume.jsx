@@ -22,9 +22,9 @@ const Resume = () => {
 
     {
       yearRange: "2024 - Current",
-      title: "QA Engineer 2",
+      title: "Software Engineer",
       place: "QA Wolf",
-      desc: "Develop and maintain Playwright automated tests for many external clients. Direct client involvement and communications",
+      desc: "Developed comprehensive automated front-end and back-end tests using the Playwright framework, improving test coverage and reducing manual QA effort. Collaborated directly with clients to define testing requirements and expectations, ensuring alignment on goals, timelines, and outcomes. Designed and developed internal tooling using React and GraphQL, streamlining internal workflows and improving engineer efficiency."
     },
     {
       yearRange: "2018 - 2024",
